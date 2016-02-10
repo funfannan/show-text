@@ -1,3 +1,10 @@
+// Author:
+//  _____ _             
+// |_   _| | ___ __ ____
+//   | | | |/ / '__|_  /
+//   | | |   <| |   / / 
+//   |_| |_|\_\_|  /___|
+
 var showText = function (target, message, index, interval) {  
 	var inB = 0;
   if(index < message.length) {
