@@ -4,6 +4,8 @@
 //   | | | |/ / '__|_  /
 //   | | |   <| |   / / 
 //   |_| |_|\_\_|  /___|
+// 
+// Thanks to Zime for the important support!
 
 var showText = function (target, message, index, interval) {  
 	var inB = 0;
